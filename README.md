@@ -1,4 +1,6 @@
 # Hi, I'm Saarth Dalvi 👋
+<!-- Animated Space Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Saarth%20Dalvi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header"/>
 
 Welcome to my GitHub profile!  
 
