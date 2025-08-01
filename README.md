@@ -17,5 +17,5 @@ Check out some of my projects here on GitHub — feel free to explore and contri
 ## Let's Connect!
 
 - GitHub: [https://github.com/saarthdalvi](https://github.com/saarthdalvi)  
-- LinkedIn: [Your LinkedIn URL]  
-- Twitter: [Your Twitter URL]
+- LinkedIn: []  
+- 
