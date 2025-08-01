@@ -8,7 +8,7 @@ I'm a passionate developer eager to build cool projects and learn new technologi
 
 ## About Me
 
-- 🌱 Currently learning: [ React, Python,C++ etc.]
+- 🌱 Currently learning: [Python,C++ etc.]
 - 💻 Interested in: Web Development, Open Source, Machine Learning, etc.
 - 📫 How to reach me: [sarthdalvi20@gmail.com]
 
