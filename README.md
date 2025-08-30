@@ -8,13 +8,16 @@ I'm a passionate developer eager to build cool projects and learn new technologi
 
 ## About Me
 
-- 🌱 Currently learning: [Python,C++ etc.]
+- 🌱 Currently learning: [Python,C++,C etc.]
 - 💻 Interested in: Web Development, Open Source, Machine Learning, etc.
 - 📫 How to reach me: [sarthdalvi20@gmail.com]
 
 ## Projects
 
 Check out some of my projects here on GitHub — feel free to explore and contribute!
+
+
+
 
 ## Let's Connect!
 
