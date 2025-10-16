@@ -1,4 +1,4 @@
-<!-- Banner / Typing Animation -->
+<!-- Animated Header -->
 <h1 align="center">Hey 👋, I'm Saarth Dalvi</h1>
 <h3 align="center">💻 C | C++ | Python Developer | 🤖 AI & ML Enthusiast</h3>
 
@@ -26,21 +26,21 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saarth-dalvi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saarth-dalvi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthdalvi&show_icons=true&theme=tokyonight" alt="Saarth's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sarthdalvi&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saarth-dalvi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthdalvi&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="mailto:saarthdalvi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" /></a>
-  <a href="https://linkedin.com/in/saarthdalvi"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" /></a>
-  <a href="https://github.com/saarth-dalvi"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" /></a>
+  <a href="mailto:sarthdalvi20@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/saarth-dalvi-b220a1378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" /></a>
+  <a href="https://github.com/sarthdalvi"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" /></a>
 </p>
 
 ---
@@ -48,4 +48,3 @@
 <p align="center">
   <b>⭐️ “Code. Learn. Evolve.” ⭐️</b>
 </p>
-
