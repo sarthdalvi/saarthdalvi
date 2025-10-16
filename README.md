@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">Hey 👋, I'm Saarth Dalvi</h1>
-<h3 align="center">💻 C | C++ | Python Developer | 🤖 AI & ML Enthusiast</h3>
+<h3 align="center">💻 C | C++ | Python Developer | 🤖 AI & ML </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+about+AI+%26+Machine+Learning;Exploring+Data+Structures+%26+Algorithms;Always+Learning+New+Tech!" alt="Typing SVG" />
